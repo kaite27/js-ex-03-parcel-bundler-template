@@ -1,0 +1,1 @@
+alert(`${process.env.TEST_TXT}!!!`)
